@@ -20,3 +20,11 @@ Route::get('/', function () {
 Route::get('/comics', function () {
     return view('products');
 })->name('comics');
+
+Route::get('/blog', function () {
+    return view('blog');
+});
+
+Route::get('/contacts', function () {
+    return view('contacts');
+})->name('contacts');

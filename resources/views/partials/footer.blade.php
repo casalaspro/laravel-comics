@@ -1,1 +1,1 @@
-footer
+<p>Copiright &COPY; Laravel Comics 2024</p>
